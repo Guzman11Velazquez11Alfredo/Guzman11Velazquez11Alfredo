@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #Skills:
-__C++
-__Pyhton
-__Java
-__C#
-__JavaScript
+__C++ <br>
+__Pyhton <br>
+__Java <br>
+__C# <br>
+__JavaScript 
