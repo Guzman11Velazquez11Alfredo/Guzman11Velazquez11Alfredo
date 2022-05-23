@@ -7,4 +7,4 @@ __Java <br>
 __C# <br>
 __JavaScript 
 
-**interesado en IA
+**focused in IA, web development and desktop apps
